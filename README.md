@@ -7,7 +7,7 @@
 
 👯 I’m looking to collaborate with other developers & content creators
 
-💬 Ask me about anything related to frontend development, React, or Vue
+💬 ask me anything related to web development — Html, css, tailwind, Bootstrap, React, Vue, Node.js (backend), Express or even MongoDB (database).
 
 📫 How to reach me:
 Facebook • Instagram • LinkedIn • Twitter
@@ -20,7 +20,7 @@ Facebook • Instagram • LinkedIn • Twitter
   
 ## Skills :
 - Html , CSS , Bootstrap, Tailwind
-- Javascript
+- Javascript, Typescript
 - React.Js , vue.js , Jquery
 - Redux , RTk Query , Vuex , Pinia
 - Node.js, Express.js
