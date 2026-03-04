@@ -1,48 +1,68 @@
 
-## Hi there, I am Mahabub Alam Bhuiyan 👋
+# Hi, I'm Mahabub Alam Bhuiyan 👋
 
-🔭 I’m currently working on web application development
+🚀 Full Stack JavaScript Developer  
+💼 Building modern, scalable web applications  
+🧠 Interested in AI-driven systems, problem solving & clean architecture  
 
-🌱 I’m currently learning everything 🤣
+---
 
-👯 I’m looking to collaborate with other developers & content creators
+## 💻 Core Expertise
 
-💬 ask me anything related to web development — Html, css, tailwind, Bootstrap, React, Vue, Node.js (backend), Express or even MongoDB (database).
+- Modern Frontend Development (React, Vue)
+- Advanced State Management (Redux Toolkit, RTK Query, Vuex, Pinia)
+- RESTful API Development (Node.js, Express.js)
+- MongoDB Database Design & Integration
+- TypeScript-based scalable architecture
 
-📫 How to reach me:
-Facebook • Instagram • LinkedIn • Twitter
+---
 
-🥅 2025 Goals: Contribute more to Open Source projects
+## 🛠 Tech Stack
 
-😄 Pronouns: He/Him
+### Frontend
+HTML5 • CSS3 • Tailwind • Bootstrap  
+JavaScript (ES6+) • TypeScript  
+React.js • Vue.js  
 
-⚡ Fun fact: I love to travel and wish to visit every country in the world someday!
-  
-## Skills :
-- Html , CSS , Bootstrap, Tailwind
-- Javascript, Typescript
-- React.Js , vue.js , Jquery
-- Redux , RTk Query , Vuex , Pinia
-- Node.js, Express.js
-- MongoDB
+### Backend
+Node.js • Express.js  
+MongoDB  
+
+---
+
+## 🎯 2026 Goals
+- Contribute consistently to Open Source
+- Strengthen Data Structures & Algorithms
+- Build production-ready full-stack applications
+- Explore AI integration in web platforms
+
+---
+
+## 🌍 Beyond Code
+Passionate about travelling, history, and exploring cultures around the world.
+
+---
+
 ## Languages and Tools:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" /> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" height="40" />
 
+---
 
-## How to find me:
+## 🌐 Connect With Me
 
-[<img src="https://skillicons.dev/icons?i=github&theme=light" alt="github" height="40"/>](https://github.com/manahidbhuiyan)
-[<img src="https://skillicons.dev/icons?i=linkedin&theme=light" alt="linkedin" height="40"/>](https://www.linkedin.com/in/manahidbhuiyan/)
-[<img src="https://skillicons.dev/icons?i=facebook&theme=light" alt="facebook" height="40"/>](https://www.facebook.com/manahid.bhuiyan/)
-[<img src="https://skillicons.dev/icons?i=instagram&theme=light" alt="instagram" height="40"/>](https://www.instagram.com/manahid_bhuiyan/)
-[<img src="https://skillicons.dev/icons?i=twitter&theme=light" alt="twitter" height="40"/>](https://twitter.com/manahid_bhuiyan)
+[<img src="https://skillicons.dev/icons?i=linkedin&theme=light" height="40"/>](https://www.linkedin.com/in/manahidbhuiyan/)
+[<img src="https://skillicons.dev/icons?i=twitter&theme=light" height="40"/>](https://twitter.com/manahid_bhuiyan)
+[<img src="https://skillicons.dev/icons?i=facebook&theme=light" height="40"/>](https://www.facebook.com/manahid.bhuiyan/)
+[<img src="https://skillicons.dev/icons?i=instagram&theme=light" height="40"/>](https://www.instagram.com/manahid_bhuiyan/)
 
+---
 
 ## 📊 GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manahidbhuiyan&layout=compact&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
+[![manahidbhuiyan's GitHub stats](https://github-readme-stats.vercel.app/api?username=manahidbhuiyan)](https://github.com/manahidbhuiyan/github-readme-stats)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=manahidbhuiyan&show_icons=true&theme=graywhite)
 ![Visitor Count](https://komarev.com/ghpvc/?username=manahidbhuiyan&style=flat&color=blue)
+
 
 
 
